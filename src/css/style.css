@@ -12,8 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('/src/imagem/tecnologia.jpg');
-    background-size: cover;
+    background-color: #032d4e;
 }
 
 .box {
@@ -158,5 +157,5 @@ body {
     font-weight: 600;
     width: 150px;
     margin-top: 15px;
-    color: blue;
+    color: #032d4e;
 }
